@@ -12,7 +12,7 @@
 	echo "☻☻☻<br>";
 	print("Boa noite.<br>");
 
-	print date('Y-m-d');
+	print date('Y-m-d <br>');
 
 
 ?>
