@@ -17,17 +17,21 @@
 	de multiplas linhas
 	*/
 	
-	echo "Segundo Exemplo";
-	$data = "20 de agosto de 2020"
+		echo "Segundo Exemplo";
+		$data = "20 de agosto de 2020"
 
 	// Este é um comentário de apenas uma linha	
 
 	 ?>
 
-	 <p>
-	 	Este parágrafo está sendo interpretado como HTML
-	 </p>
-	 Arquivo criado em <?php  echo $data	; 
+		 <p>
+	 		Este parágrafo está sendo interpretado como HTML
+	 	</p>
+	 		Arquivo criado em 
+
+	 <?php 
+
+	 	echo $data	; 
 
 	 ?>
 
